@@ -414,3 +414,4 @@ C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
+C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
