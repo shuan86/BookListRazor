@@ -2,7 +2,6 @@ C:\Users\danny\Documents\web\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\bin\Debug\netcoreapp3.1\BookListRazor.exe
-C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csprojAssemblyReference.cache
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\staticwebassets\BookListRazor.StaticWebAssets.Manifest.cache
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\staticwebassets\BookListRazor.StaticWebAssets.xml
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.RazorAssemblyInfo.cache
@@ -415,3 +414,5 @@ C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Index.cshtml.g.cs
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Create.cshtml.g.cs
 C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Edit.cshtml.g.cs
+C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\Razor\Pages\BookList\Upsert.cshtml.g.cs
+C:\Users\danny\Documents\web\BookListRazor\BookListRazor\obj\Debug\netcoreapp3.1\BookListRazor.csprojAssemblyReference.cache
